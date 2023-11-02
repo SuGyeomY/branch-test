@@ -2,3 +2,8 @@ first edition
 second edition
 third edition
 issue resolve
+<<<<<<< HEAD
+hotfix my solution
+=======
+Hotfix teams's solution
+>>>>>>> origin/master
